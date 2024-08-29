@@ -1,0 +1,9 @@
+name: Herobrine
+version: '${project.version}'
+main: de.grubabua.herobrine.Herobrine
+api-version: '1.21.1'
+authors: [grubabua]
+commands:
+  starthunt:
+    description: start
+    aliases: []
